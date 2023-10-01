@@ -1,7 +1,7 @@
 # ISL_Python
 These are my labs and exercises from the book ["An Introduction to Statistical Learning"](https://www.statlearning.com/). 
 
-I initially worked on through this book in late 2022 / early 2023 before the Python edition was published. I translated their labs and exercises from R into Python, using another public ["Github repository"](https://github.com/qx0731/Sharing_ISL_python) for guidance on the labs when I was stuck.  
+I initially worked on through this book in late 2022 / early 2023 before the Python edition was published. I translated their labs and exercises from R into Python, using another public [Github repository](https://github.com/qx0731/Sharing_ISL_python) for guidance on the labs when I was stuck.  
 
 Commentary throughout the notebooks are my own. I use them when I want to better understand what a line of code is doing, so they represent my study of these labs and exercises. 
 
